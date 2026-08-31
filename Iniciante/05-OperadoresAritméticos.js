@@ -1,0 +1,19 @@
+// Operadores
+/*
+    + -> Soma / Concatenação
+    - -> Subtração
+    * -> Multiplicação
+    / -> Divisão
+    ** -> Potenciação
+    % -> Resto da divisão
+*/
+
+const num1 = 10
+const num2 = 2
+
+console.log(num1 + num2)
+console.log(num1 - num2)
+console.log(num1 * num2)
+console.log(num1 / num2)
+console.log(num1 ** num2)
+console.log(num1 % num2)
